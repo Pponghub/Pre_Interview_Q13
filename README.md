@@ -10,8 +10,10 @@ After cloning this repository
 cd ts-merge-project
 npm install     # install dependencies
 npm run build   # Compile TypeScript
+```
 
 ## Run Unit Tests
 
 ```bash
 `npm test`
+```
