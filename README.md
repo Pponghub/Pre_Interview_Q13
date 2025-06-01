@@ -15,5 +15,5 @@ npm run build   # Compile TypeScript
 ## Run Unit Tests
 
 ```bash
-`npm test`
+npm test
 ```
